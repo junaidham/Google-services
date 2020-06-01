@@ -2,11 +2,8 @@
 
 -> URL:
 https://console.firebase.google.com/u/0/?pli=1
-
 https://firebase.google.com/docs
-
 https://codelabs.developers.google.com/codelabs/firebase-android/#0
-
 https://firebase.google.com/docs/android/setup#console
 
 ## Install Crashlytics
@@ -18,7 +15,6 @@ Google Analytics collects usage and behavior data for your app. The SDK logs two
 
 Events: What is happening in your app, such as user actions, system events, or errors.
 User properties: Attributes you define to describe segments of your user base, such as language preference or geographic location.
-
 https://firebase.google.com/docs/analytics/get-started?platform=android
 
 ##  Firebase Authentication on Android
@@ -29,7 +25,6 @@ https://firebase.google.com/docs/auth/android/start
 ## Cloud Storage
 https://firebase.google.com/docs/storage
 
-https://firebase.google.com/docs/storage/android/start
 
 
 https://firebase.google.com/docs/firestore/quickstart

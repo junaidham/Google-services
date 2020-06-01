@@ -25,7 +25,10 @@ https://firebase.google.com/docs/analytics/get-started?platform=android
 ##  Firebase Authentication on Android
 To use an authentication provider, you need to enable it in the Firebase console. Go to the Sign-in Method page in the Firebase Authentication section to enable Email/Password sign-in and any other identity providers you want for your app.
 https://firebase.google.com/docs/auth/android/start
+https://console.firebase.google.com/u/2/project/ak-puc-app/authentication/users
+https://firebase.google.com/docs/auth/android/phone-auth
 
+## 
 
 ## Cloud Storage
 https://firebase.google.com/docs/storage

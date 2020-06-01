@@ -1,4 +1,4 @@
-## map navigation
+## Map navigation
 
 https://developers.google.com/maps/documentation/urls/guide#directions-action
 https://developers.google.com/maps/documentation/urls/android-intents

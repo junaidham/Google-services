@@ -1,9 +1,13 @@
 ## How to implement phone number Verification by OTP using Firebase in Android
 
 -> URL:
+
 https://console.firebase.google.com/u/0/?pli=1    
+
 https://firebase.google.com/docs
+
 https://codelabs.developers.google.com/codelabs/firebase-android/#0
+
 https://firebase.google.com/docs/android/setup#console
 
 ## Install Crashlytics

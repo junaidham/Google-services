@@ -14,7 +14,6 @@ https://developers.google.com/maps/gmp-get-started
 
 
 ## Map navigation
-
 https://developers.google.com/maps/documentation/urls/guide#directions-action
 https://developers.google.com/maps/documentation/urls/android-intents
 https://stackoverflow.com/questions/2662531/launching-google-maps-directions-via-an-intent-on-android

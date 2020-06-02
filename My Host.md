@@ -6,3 +6,6 @@ https://www.milesweb.in							170/mo  ->
 https://www.hostinger.in						119/mo ₹399 [4788/yr], Rs.2748
 https://hostripples.in							127/mo -> 254/mo 			699.00 INR
 https://www.hostinger.in/domain-checker			602/yr
+
+
+
